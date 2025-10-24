@@ -25,7 +25,8 @@ class FlappyBirdGame extends FlameGame with TapDetector, HasCollisionDetection {
   bool _pipesMoving = true;
   bool _isInitialized = false;
 
-  // Dynamic settings-based properties
+  // Dynamic settings-based properties 
+//You can differentiate difficulty as your wish
   double get pipeGap {
     switch (settings.difficultySync) {
       case 'easy': return 300.0;
