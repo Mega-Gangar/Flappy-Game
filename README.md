@@ -65,3 +65,14 @@ flutter pub get
 ```bash
 flutter run
 ```
+## Screenshots
+
+### Home Screen
+<img src="assets/homescreen.jpg" width="400">
+
+### Gameplay Screen
+<img src="assets/gamescreen.jpg" width="400">
+<img src="assets/gamescreen1.jpg" width="400">
+
+### Setting
+<img src="assets/setting.jpg" width="400">
